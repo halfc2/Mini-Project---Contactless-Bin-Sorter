@@ -54,10 +54,10 @@ text## Pin Summary (Arduino Uno/Nano)
 | GSM RX → Arduino TX      | D1   |
 
 ## How to Use
-1. Power it up → "GROUP 9 FINAL" appears  
+1. Power it up → "Starting..." appears in the display  
 2. Hover hand over **left side** → lid opens to **PLASTIC**  
 3. Hover hand over **right side** → lid opens to **PAPER**  
-4. When a bin gets full → LCD flashes warning + SMS sent  
+4. When a either bin gets full → LCD flashes warning + SMS sent  
 5. Press the button on A2 to reset everything (for demo)
 
 ## Important Notes
